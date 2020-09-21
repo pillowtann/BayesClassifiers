@@ -15,8 +15,8 @@ E.g. After entering the Python environment, type `jupyter-notebook`
 
 Open the "ee5907_ca1.ipynb" file from the Jupyter console and the codes should appear.
 
-Please note that the dataset should be saved as per the original format and title "spamData.mat", and placed in the same folder as the Jupyter Notebook ipynb script.
-Alternatively, you may edit the script too if you wish to direct the `loadmat()` function to read the address where you saved the dataset.
+Please note that the dataset should be saved as per the original format as per "spamData.mat" and placed in the same folder as the Jupyter Notebook ipynb script.
+Alternatively, you may edit the script if you wish to direct the `loadmat()` function to read the address from another location where you saved the dataset.
 
 ## Authors
 If you need clarifications, please approach [Fiona Tan](tan.f@u.nus.edu).
